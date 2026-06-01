@@ -95,6 +95,7 @@ cd airbnb-data-analysis
 pip install -r requirements.txt
 jupyter notebook Airbnb_Data_Analysis.ipynb
 ```
+
 Or open directly in **Google Colab**:
 
 1. Open the notebook **Airbnb_Data_Analysis.ipynb** in **Google Colab**
