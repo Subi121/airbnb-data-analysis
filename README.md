@@ -69,7 +69,7 @@ An Exploratory Data Analysis (EDA) project on Airbnb listings across New York Ci
 ## 🚀 Run the Project
 
 1. Open the notebook in **Google Colab**
-2. Upload `Airbnb_Dataset_xlsx.xlsx`
+2. Upload `Airbnb_Dataset_xlsx`
 3. Run all cells to generate charts and insights
 
 ---
@@ -80,6 +80,13 @@ An Exploratory Data Analysis (EDA) project on Airbnb listings across New York Ci
 * Predict listing price using ML regression models (Ridge, XGBoost)
 * Build an interactive dashboard using Plotly or Streamlit
 * Add geospatial heatmap of listings and pricing using Folium
+
+---
+
+## ⚠️ Disclaimer
+* This is an independent data analysis project completed during an internship at **VOIS (Vodafone Intelligent Solutions)**.  
+* Not affiliated with or endorsed by Airbnb, Inc.  
+* Dataset was provided as part of the internship program
 
 ---
 
