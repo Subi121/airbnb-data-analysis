@@ -89,7 +89,7 @@ airbnb-data-analysis/
 
 ## 🚀 Run the Project
 
-``bash
+```bash
 git clone https://github.com/Subi121/airbnb-data-analysis.git
 cd airbnb-data-analysis
 pip install -r requirements.txt
