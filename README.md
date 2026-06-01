@@ -44,6 +44,18 @@ An Exploratory Data Analysis (EDA) project on Airbnb listings across New York Ci
 
 ---
 
+## 📂 Project Structure
+ 
+```
+airbnb-data-analysis/
+├── Airbnb Dataset.xlsx             # Dataset file
+├── Airbnb_Data_Analysis.ipynb      # Main analysis notebook
+├── requirements.txt                # Python dependencies
+└── README.md
+```
+
+---
+
 ## 📊 Analysis & Visualizations
 
 | Chart | Description |
@@ -77,7 +89,15 @@ An Exploratory Data Analysis (EDA) project on Airbnb listings across New York Ci
 
 ## 🚀 Run the Project
 
-1. Open the notebook in **Google Colab**
+``bash
+git clone https://github.com/Subi121/airbnb-data-analysis.git
+cd airbnb-data-analysis
+pip install -r requirements.txt
+jupyter notebook Airbnb_Data_Analysis.ipynb
+```
+Or open directly in **Google Colab**:
+
+1. Open the notebook **Airbnb_Data_Analysis.ipynb** in **Google Colab**
 2. Upload `Airbnb Dataset.xlsx`
 3. Run all cells to generate charts and insights
 
