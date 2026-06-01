@@ -10,6 +10,15 @@
 An Exploratory Data Analysis (EDA) project on Airbnb listings across New York City using Python, Pandas, and Matplotlib. Analyzes pricing trends, neighbourhood patterns, room type distributions, host activity, cancellation policies, and availability insights across **102,599 listings** from **2003 to 2022**.
 
 ---
+ 
+## 🎯 Objective
+ 
+- Analyze pricing trends across NYC boroughs and room types
+- Identify top hosts, neighbourhoods, and listing patterns
+- Understand how cancellation policies affect availability
+- Explore correlations between reviews, pricing, and host verification
+- Derive actionable insights from 102,599 listings spanning 2003–2022
+---
 
 ## 📁 Dataset
 
