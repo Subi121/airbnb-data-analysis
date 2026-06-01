@@ -78,7 +78,7 @@ An Exploratory Data Analysis (EDA) project on Airbnb listings across New York Ci
 ## 🚀 Run the Project
 
 1. Open the notebook in **Google Colab**
-2. Upload `Airbnb_Dataset_xlsx`
+2. Upload `Airbnb Dataset.xlsx`
 3. Run all cells to generate charts and insights
 
 ---
